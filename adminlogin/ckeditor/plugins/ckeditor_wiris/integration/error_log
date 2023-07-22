@@ -1,0 +1,2 @@
+[04-Nov-2021 15:10:08 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/m2p362tijtbq/public_html/admin/ckeditor/plugins/ckeditor_wiris/integration/lib/php/Boot.class.php on line 221
+[10-Dec-2021 08:52:03 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/totmally/public_html/secureshield/ckeditor/plugins/ckeditor_wiris/integration/lib/php/Boot.class.php on line 221
